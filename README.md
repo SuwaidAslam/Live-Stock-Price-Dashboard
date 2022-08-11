@@ -34,7 +34,6 @@ $ source env/Source/activate
 $ pip install -r requirements.txt
 ```
 - Run index.py file
-```
 
 ## Contact
 
